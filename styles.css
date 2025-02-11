@@ -33,7 +33,7 @@
     margin-left: 4px;
     margin-right: 4px;
     margin-top: 30px;
-    background: #dfe1e5;
+    background: #8b3030;
     border: none;
     padding-top: 8px;
     padding-bottom: 8px;
@@ -41,5 +41,6 @@
     padding-right: 16px;
     border-radius: 4px;
     font-size: 14px;
+    color: #dfe1e5
 }
 
